@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Mayank Goel
 
-<!--
-**goelmayank0211/goelmayank0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 B.Tech CSE Student (MIET, AKTU)
+- 💻 Aspiring Full Stack Java Developer
+- 🌱 Currently learning Html, CSS, JavaScript, Java, Spring Boot, React & MySQL
+- 🚀 Building real-world projects and improving problem-solving skills
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🏨 Hotel Management System
+- 📄 Smart Resume Builder
+- 🧮 Java Calculator
+- 🏧 ATM Machine System
+- 🎓 Student Management System
+
+## 📫 Connect With Me
+- GitHub: https://github.com/goelmayank0211
