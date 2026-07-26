@@ -117,59 +117,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🏨 Hotel Management System
-**Tech:** Python, PyQt, MySQL  
-**Features:** Room Booking • Customer Management • Check-In/Out • Food Booking • Billing  
-<a href="https://github.com/goelmayank0211/hotel-management-system">
-  <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-### 📄 Smart Resume Builder
-**Tech:** HTML, CSS, JavaScript  
-**Features:** Resume Templates • One-Click Export • PDF Generation  
-<a href="https://github.com/goelmayank0211/smart-resume-builder">
-  <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-### 🛒 Grocery Management System
-**Tech:** Python, MySQL  
-**Features:** Inventory Management • Billing • Stock Tracking  
-<a href="https://github.com/goelmayank0211/grocery-management-system">
-  <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-### 🏧 ATM Machine System
-**Tech:** Java  
-**Features:** Withdraw • Deposit • Balance Check • Pin Change  
-<a href="https://github.com/goelmayank0211/atm-machine-system">
-  <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-<details>
-<summary>📁 More Projects</summary>
-<br />
-
-| Project | Technology | Description |
-|---------|------------|-------------|
-| 🔢 Java Calculator | Java | GUI calculator application |
-| 🎓 Student Management System | Java + MySQL | Manage student records |
-| 💱 Currency Converter | Java | Real-time currency conversion |
-| 📊 Student Grade Calculator | Java | Calculate student grades |
-
-</details>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
