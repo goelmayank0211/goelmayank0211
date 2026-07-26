@@ -7,20 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://goelmayank0211.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mayank-goel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:goelmayank0211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/mayankgoel">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mayank-goel-98b455363">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@mayankgoel">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://github.com/goelmayank0211">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -74,6 +68,16 @@
   <img src="https://img.shields.io/badge/PyQt_Designer-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 
+### 📚 Core Subjects
+<p>
+  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=object-oriented&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-008FC7?style=for-the-badge&logo=operating-system&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FF6C37?style=for-the-badge&logo=algorithm&logoColor=white" />
+</p>
+
+---
+
 ## 📖 Currently Learning
 
 <div align="center">
@@ -109,7 +113,9 @@
   </table>
 </div>
 
-> 💡 **My Goal:** I am currently building my skills in **HTML, CSS, JavaScript, React, SQL, and Python**. I work on real-world projects to strengthen my understanding and prepare myself for a **Full Stack Developer** role.---
+> 💡 **My Goal:** I am currently building my skills in **HTML, CSS, JavaScript, React, SQL, and Python**. I work on real-world projects to strengthen my understanding and prepare myself for a **Full Stack Developer** role.
+
+---
 
 ## 🚀 Projects
 
@@ -146,6 +152,9 @@
 <a href="https://github.com/goelmayank0211/atm-machine-system">
   <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+---
+
 <details>
 <summary>📁 More Projects</summary>
 <br />
@@ -160,6 +169,7 @@
 </details>
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -181,6 +191,7 @@
 </div>
 
 ---
+
 ## 📬 Let's Connect!
 
 <div align="center">
@@ -197,6 +208,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
 ---
 
 ## ☕ Support
