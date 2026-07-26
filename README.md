@@ -181,32 +181,22 @@
 </div>
 
 ---
-
 ## 📬 Let's Connect!
 
 <div align="center">
   <p><em>I'm always open to discussing new projects or opportunities!</em></p>
+  <br />
   
   <a href="mailto:goelmayank0211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/mayank-goel">
+  <a href="https://www.linkedin.com/in/mayank-goel-98b455363">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/mayankgoel">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@mayankgoel">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://github.com/goelmayank0211">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://goelmayank0211.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
 </div>
-
 ---
 
 ## ☕ Support
